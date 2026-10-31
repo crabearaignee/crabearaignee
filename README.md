@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=crabearaignee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crabearaignee&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=crabearaignee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crabearaignee&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=crabearaignee&theme=dark&hide_border=true&background=0d1117&ring=4B6CB7&fire=EF7B4D&currStreakLabel=4B6CB7" height="165" />
 
